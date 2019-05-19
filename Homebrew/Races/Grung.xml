@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="YES" HB="HB">
-	<race name="Grung">
+	<race name="Grung" source="OGA">
 		<name>Grung</name>
 		<size>S</size>
 		<speed>30</speed>

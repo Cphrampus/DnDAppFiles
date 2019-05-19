@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <compendium version="5" auto_indent="YES" HB="HB">
-	<race name="Feyblood (Skyborn)">
+	<race name="Feyblood (Skyborn)" source="XLNtEE">
 		<name>Feyblood (Sylphi/Skyborn)</name>
 		<size>M</size>
 		<speed>30</speed>
@@ -27,7 +27,7 @@
 			<text>You can speak, read, and write Common, Sylvan, and one extra language of your choice.</text>
 		</trait>
 	</race>
-	<race name="Feyblood (Earthborn)">
+	<race name="Feyblood (Earthborn)" source="XLNtEE">
 		<name>Feyblood (Dryashi/Earthborn)</name>
 		<size>M</size>
 		<speed>30</speed>
